@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-test",
+  "version": "1.0.0",
+  "description": "Tailwind Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanitoA1/tailwind-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanitoA1/tailwind-test/issues"
+  },
+  "homepage": "https://github.com/DanitoA1/tailwind-test#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.9",
+    "tailwindcss": "^2.1.1"
+  }
+}
